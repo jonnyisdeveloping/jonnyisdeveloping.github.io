@@ -1,0 +1,238 @@
+{
+    "description": "A list of cars brands and their models",
+    "cars": {
+        "Toyota": [
+            {
+                "id": "001",
+                "model": "S800",
+                "picture": "toyota_S800.jpg",
+                "year": "1968",
+                "price": "30,000",
+                "description": "The S800 was Toyota’s first proper sports car. Power for the S800 came from a 0.8-liter, two-cylinder horizontally opposed engine. Making a modest 44 hp, the car weighed less than 1,300 pounds. It was a two-seat targa that featured a lift-out roof panel.",
+                "details": {
+                    "style": "convertible",
+                    "mileage": "150,000km",
+                    "power": "33/45",
+                    "transmission": "manual",
+                    "color": "red"
+                }
+            },
+            {
+                "id": "002",
+                "model": "Celica ST",
+                "picture": "toyota_CelicaST.jpg",
+                "year": "1977",
+                "price": "17,800",
+                "description": "This Celica TA23 is from the 1,5 (23 series) generation. The 1.588 cc engine with a twin carburettor, the 2T-B delivered new 86 HP. The Coupe has the same basic shape as first generation but slightly longer between the front wheels and the doors. The front style introduced in 1973 on the Japanese models now used in all markets (lengthened to suit new chassis). Also it got a new style dash.",
+                "details": {
+                    "style": "coupe",
+                    "mileage": "101,000km",
+                    "power": "63/86",
+                    "transmission": "manual",
+                    "color": "green"
+                }
+            },
+            {
+                "id": "003",
+                "model": "Century",
+                "picture": "toyota_Century.jpg",
+                "year": "1981",
+                "price": "24,980",
+                "description": "The Toyota Century is a large, four-door sedan, made exclusively for the Japanese market, so it is a right-hand drive. The Century is made in small quantities virtually by hand. It is used by Royal Highnesses, the Prime Minister of Japan, senior government officials and leading business people.",
+                "details": {
+                    "style": "saloon",
+                    "mileage": "118,000km",
+                    "power": "134/182",
+                    "transmission": "automatic",
+                    "color": "black"
+                }
+            },
+            {
+                "id": "004",
+                "model": "Land Cruiser FJ 40",
+                "picture": "toyota_LandCruiserFJ40.jpg",
+                "year": "1971",
+                "price": "17,350",
+                "description": "Original Land Cruiser! A very complete maintenance history is present. The well running 6 cylinder engine runs on both gas and petrol, making it considerably cheaper in costs per kilometer. Given the age of 40 plus, no road tax has to be paid in the Netherlands. A very nice oldtimer.",
+                "details": {
+                    "style": "4x4",
+                    "mileage": "41,200km",
+                    "power": "88/120",
+                    "transmission": "manual",
+                    "color": "green"
+                }
+            }
+        ],
+        "Volkswagen": [
+            {
+                "id": "005",
+                "model": "T1 Kombi pickup",
+                "picture": "volkswagen_T1pickup.jpg",
+                "year": "1960",
+                "price": "104,000",
+                "description": "The Ultimate VW Generation T1. With the steadfast and optimized engine the participation in the flowing traffic is easily possible. The power transmission has been optimized for the engine. Modern safety systems were installed in the vehicle. The chassis allows a sporty driving if the Highway Code allows it.",
+                "details": {
+                    "style": "Bus",
+                    "mileage": "1,850km",
+                    "power": "66/90",
+                    "transmission": "manual",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": "006",
+                "model": "Beetle 1200",
+                "picture": "volkswagen_Beetle1200.jpg",
+                "year": "1965",
+                "price": "104,000",
+                "description": "To Verkeuf is a very nice Beetle Cabriolet 1965 model year. Original was the vehicle poppy red, but has been repainted over the years by the previous owner. The interior and the roof are in good condition, the engine has been completely overhauled.",
+                "details": {
+                    "style": "Convertible",
+                    "mileage": "25,000km",
+                    "power": "25/34",
+                    "transmission": "manual",
+                    "color": "Yellow"
+                }
+            }
+        ],
+        "Porsche": [
+            {
+                "id": "007",
+                "model": "911 Carrera RS 2.7",
+                "picture": "porsche_911CarreraRS.jpg",
+                "year": "1973",
+                "price": "150,000",
+                "description": "Delivered new to German racing driver Fritz Muller, chassis 0898 was finished in light ivory with black script. Specified with desirable factory options; Limited-slip differential (220), Heated rear window (102) & Front fog lights (433)",
+                "details": {
+                    "style": "Coupe",
+                    "mileage": "50,850km",
+                    "power": "154/210",
+                    "transmission": "manual",
+                    "color": "White"
+                }
+            },
+            {
+                "id": "008",
+                "model": "924",
+                "picture": "porsche_924.jpg",
+                "year": "1982",
+                "price": "11,000",
+                "description": "To Verkeuf is a very nice Beetle Cabriolet 1965 model year. Original was the vehicle poppy red, but has been repainted over the years by the previous owner. The interior and the roof are in good condition, the engine has been completely overhauled.",
+                "details": {
+                    "style": "Coupe",
+                    "mileage": "65,000km",
+                    "power": "92/125",
+                    "transmission": "manual",
+                    "color": "White"
+                }
+            },
+            {
+                "id": "009",
+                "model": "356 A Carrera 1500 GS",
+                "picture": "porsche_356ACarrera.jpg",
+                "year": "1957",
+                "price": "70,000",
+                "description": "Launched in 1948, the basic design of the 356 remained the same throughout its lifespan, with evolutionary, functional improvements rather than yearly superficial styling changes. Nevertheless a variety of models in both coupe and convertible forms were produced from its launch through 1965.",
+                "details": {
+                    "style": "Coupe",
+                    "mileage": "40,000km",
+                    "power": "74/100",
+                    "transmission": "manual",
+                    "color": "Silver"
+                }
+            }
+        ],
+        "Mercedes": [
+            {
+                "id": "010",
+                "model": "280 SL",
+                "picture": "mercedesBenz_280SL.jpg",
+                "year": "1971",
+                "price": "79,900",
+                "description": "Incredibly beautiful Mercedes Benz 280 SL Pagode. This example is delivered new in Germany on February the 12th in 1971 and has driven only 53.366 kilometres. This is the beloved European version with rare manual. A few years ago completely taken care of. The body is superb, has beautiful panels and perfect panelfittings. The undercarriage is perfect, completely free of rust and very original. The engine is completely overhauled a few years ago so the car is technically in a perfect working and driving condition.",
+                "details": {
+                    "style": "Convertible",
+                    "mileage": "53,366km",
+                    "power": "125/170",
+                    "transmission": "manual",
+                    "color": "Red"
+                }
+            },
+            {
+                "id": "011",
+                "model": "220 SE",
+                "picture": "mercedesBenz_220SE.jpg",
+                "year": "1959",
+                "price": "78,598",
+                "description": "Beautiful Mercedes Ponton Coupe as an injector. It is still the original engine and the original gearbox in the car, as it was in 1959 from tape  proof by matching numbers! The car is now in fourth hand. This is a Mercedes Ponton 220 SE pontoon fuel injection coupe, which was manufactured in a quantity of only 830 vehicles. Only 2,081 Mercedes-Benz 220 pontoon coupes left the factories, mostly handcrafted.",
+                "details": {
+                    "style": "Coupe",
+                    "mileage": "106,000km",
+                    "power": "88/120",
+                    "transmission": "manual",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": "012",
+                "model": "190 SL",
+                "picture": "mercedesBenz_190SL.jpg",
+                "year": "1958",
+                "price": "138,934",
+                "description": "The 190 SL was a milestone in the history of Daimler Benz AG, where a platform strategy came into play for the first time. Visually heavily related to his  'big brother' - the 300 SL, his chassis structure came from the s.c. Ponton the first vehicle built after 1945 without a seperate frame body. In the mid-1950s, the 190SL was still expensive luxury, but much more affordable than a 300SL that was offered as the top of the line vehicle at the time.",
+                "details": {
+                    "style": "Convertible",
+                    "mileage": "483km",
+                    "power": "77/105",
+                    "transmission": "manual",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": "013",
+                "model": "230 SL",
+                "picture": "mercedesBenz_230SL.jpg",
+                "year": "1964",
+                "price": "86,301",
+                "description": "This pagoda was first registered in December 1964. The color is called medium gray metallic. Together with the color of the interior, a very elegant color combination presents itself.",
+                "details": {
+                    "style": "Convertible",
+                    "mileage": "16,110km",
+                    "power": "110/150",
+                    "transmission": "manual",
+                    "color": "Grey"
+                }
+            },
+            {
+                "id": "014",
+                "model": "300 SEL 6.3",
+                "picture": "mercedesBenz_300SEL.jpg",
+                "year": "1968",
+                "price": "65,919",
+                "description": "This well maintained vehicle in classic dark blue is since 2005 in our repair and maintenance. The body was extensively repaired in 2007, the vehicle was completely painted.",
+                "details": {
+                    "style": "Saloon",
+                    "mileage": "88,670km",
+                    "power": "184/250",
+                    "transmission": "automatic",
+                    "color": "Blue"
+                }
+            },
+            {
+                "id": "015",
+                "model": "220 SE b",
+                "picture": "mercedesBenz_220SEb.jpg",
+                "year": "1964",
+                "price": "52,317",
+                "description": "The coupe of the so-called fishtail models W111-was considered the epitome of the luxury car in the 60s. While the majority of cars on German highways consisted of beetles, Opel Kadetts and a few Ford 17M the 220 SE/b was a rather rare and exclusive phenomenon. This is still true to this day; especially if it is a fully  restored vehicle, which impresses with its charming and original charisma.",
+                "details": {
+                    "style": "Coupe",
+                    "mileage": "1,160km",
+                    "power": "88/120",
+                    "transmission": "automatic",
+                    "color": "White"
+                }
+            }
+        ]
+    }
+}
