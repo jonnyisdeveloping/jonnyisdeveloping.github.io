@@ -5,5 +5,9 @@
     },{
         "img": "https://placeit-assets.s3-accelerate.amazonaws.com/landing-pages/make-a-twitch-banner2/Twitch-Banner-Blue-1024x324.png",
         "url": "http://twitter.com"
+    },
+    {
+        "img": "https://support.squarespace.com/hc/en-us/article_attachments/211043968/index-page-banner.png",
+        "url": "http://yahoo.com"
     }
 ]
