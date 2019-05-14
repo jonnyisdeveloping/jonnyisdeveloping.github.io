@@ -1,4 +1,14 @@
 [
-  {"name": "abc", "email": "abc@example.com"},
-  {"name": "xyz", "email": "xyz@example.com"}
+    {
+        "img": "https://placeit-assets.s3-accelerate.amazonaws.com/landing-pages/make-a-twitch-banner2/Blue-Theme-Twitch-Banner-1-1024x324.png",
+        "url": "http://google.com"
+    },
+    {
+        "img": "https://placeit-assets.s3-accelerate.amazonaws.com/landing-pages/make-a-twitch-banner2/Blue-Theme-Twitch-Banner-1-1024x324.png",
+        "url": "http://google.com"
+    },
+    {
+        "img": "https://placeit-assets.s3-accelerate.amazonaws.com/landing-pages/make-a-twitch-banner2/Blue-Theme-Twitch-Banner-1-1024x324.png",
+        "url": "http://google.com"
+    }
 ]
